@@ -1,0 +1,58 @@
+{
+    "KCCAM-DNN": {
+        "Accuracy": 0.8421052631578947,
+        "Precision": 0.8449612403100775,
+        "Recall (Sensitivity)": 0.8515625,
+        "Specificity": 0.8319327731092437,
+        "F1-Score": 0.8482490272373541,
+        "ROC-AUC": 0.9213497899159663,
+        "PR-AUC": 0.9312325172472797,
+        "Brier Score": 0.12460979734619773,
+        "True Positives": 109,
+        "False Negatives (Missed Cases)": 19,
+        "True Negatives": 99,
+        "False Positives": 20
+    },
+    "FT-Transformer": {
+        "Accuracy": 0.8016194331983806,
+        "Precision": 0.7925925925925926,
+        "Recall (Sensitivity)": 0.8359375,
+        "Specificity": 0.7647058823529411,
+        "F1-Score": 0.8136882129277566,
+        "ROC-AUC": 0.8710609243697479,
+        "PR-AUC": 0.8876433659296328,
+        "Brier Score": 0.18182492079902576,
+        "True Positives": 107,
+        "False Negatives (Missed Cases)": 21,
+        "True Negatives": 91,
+        "False Positives": 28
+    },
+    "TabPFN": {
+        "Accuracy": 0.8178137651821862,
+        "Precision": 0.8373983739837398,
+        "Recall (Sensitivity)": 0.8046875,
+        "Specificity": 0.8319327731092437,
+        "F1-Score": 0.8207171314741036,
+        "ROC-AUC": 0.9092699579831932,
+        "PR-AUC": 0.9249513086763845,
+        "Brier Score": 0.1278798750569534,
+        "True Positives": 103,
+        "False Negatives (Missed Cases)": 25,
+        "True Negatives": 99,
+        "False Positives": 20
+    },
+    "Adaptive Ensemble": {
+        "Accuracy": 0.8380566801619433,
+        "Precision": 0.8333333333333334,
+        "Recall (Sensitivity)": 0.859375,
+        "Specificity": 0.8151260504201681,
+        "F1-Score": 0.8461538461538461,
+        "ROC-AUC": 0.9176733193277311,
+        "PR-AUC": 0.9316338126551073,
+        "Brier Score": 0.12050282335834164,
+        "True Positives": 110,
+        "False Negatives (Missed Cases)": 18,
+        "True Negatives": 97,
+        "False Positives": 22
+    }
+}
